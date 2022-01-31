@@ -1,6 +1,6 @@
 ext.cdvCompileSdkVersion=31
 ext.cdvBuildToolsVersion="31.0.0"
-ext.cdvMinSdkVersion=23
+ext.cdvMinSdkVersion=26
 ext.cdvTargetSdkVersion=31
 
 android {
