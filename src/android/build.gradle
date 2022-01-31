@@ -1,7 +1,7 @@
-ext.cdvCompileSdkVersion=29
-ext.cdvBuildToolsVersion="30.0.1"
+ext.cdvCompileSdkVersion=31
+ext.cdvBuildToolsVersion="31.0.0"
 ext.cdvMinSdkVersion=23
-ext.cdvTargetSdkVersion=29
+ext.cdvTargetSdkVersion=31
 
 android {
     lintOptions {
